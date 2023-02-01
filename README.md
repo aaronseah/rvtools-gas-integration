@@ -29,7 +29,7 @@ Click on Extensions > Apps Script <br>
 ![image](https://user-images.githubusercontent.com/26889802/215939053-c3732a6b-2d2d-4122-ae94-6d12bb5e3e07.png)
 
 <b>Step 6:</b><br>
-Replace the Code.gs code with the one here. Read through the code and change the parameters according to your environment. <br>
+Replace the <b>Code.gs</b> code with the one here. Read through the code and change the parameters according to your environment. <br>
 I've implemented a button to manually import the CSV. You may set a time trigger as well.
 
 <b>Future Implementation:</b>
