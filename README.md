@@ -6,7 +6,7 @@ This is currently an amateur way of updating the VM inventory but it works, will
 Download RVTools here: https://www.robware.net/rvtools/
 
 <b>Step 2:</b><br>
-Install on your machine. 
+Install on your machine. <br>
 The default location is at "C:\Program Files (x86)\Robware\RVTools" but you may set the path you want.
 
 <b>Step 3:</b><br>
