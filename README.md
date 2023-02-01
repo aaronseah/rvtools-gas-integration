@@ -17,7 +17,7 @@ Use "RVToolsPasswordEncryption.exe" located in the same path to encrypt the pass
 You can also update the argument to export a certain tab or CSV. <br>
 More details here: https://www.vgemba.net/vmware/RVTools-Export/
 
-I've edited the script to save to a local drive instead of sending it to my email. You may use it as a reference.
+I've edited the script to save to a local drive instead of sending it to my email. You may use it as a reference - <b>RVTools_CSV_ALL.ps1</b>
 
 <b>Step 4:</b><br>
 Upload the CSV file to Google Drive (future update to automate this section - probably email and use a script to upload it to Drive)
